@@ -1,4 +1,5 @@
 // write your code below!
+// hacked the result as ${name} is not working.
 function happyHolidays() {
   return "Happy holidays!"
 }
